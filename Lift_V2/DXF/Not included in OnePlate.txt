@@ -1,0 +1,6 @@
+Not included in OnePlate:
+ - Cover
+ - Car_Floot
+ - Car_Floor_Bottom
+ - Baseplate_Top
+ - Baseplate_Bottom
